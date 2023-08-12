@@ -830,7 +830,7 @@ Hub1.Size = UDim2.new(0, 50, 0, 27)
 
 Hub1.Font = Enum.Font.Code
 
-Hub1.Text = "YT isnahamzah"
+Hub1.Text = "Oji0721"
 
 Hub1.TextColor3 = Color3.fromRGB(255,255,255)
 
@@ -4656,29 +4656,13 @@ local Misc = Library:Tab("Misc","rbxassetid://11156061121")
 
 local Ss = Library:Tab("Stats","rbxassetid://7040410130")
 
-H:Label("backup by isnahamzah YT ")
+H:Label("backup by Oji0721 YT ")
 
 H:Seperator("Credits")
 
-H:Label("Crack By rich_xreal")
-
-H:Label("Crack By Mango Man")
+H:Label("Crack By Oji0721")
 
 H:Button("Copy Discord Link",function()
-
-game.StarterGui:SetCore("SendNotification", {
-
-Icon = "http://www.roblox.com/asset/?id=13858697661";
-
-Title = "SUBREK YT ISNAHAMZAH",
-
-Text = "Link Copied …"
-
-})
-
-setclipboard("https://discord.gg/isnahamzah")
-
-end)
 
 H:Seperator("Script Support")
 

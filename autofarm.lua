@@ -11,7 +11,7 @@ ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
 ImageButton.Size = UDim2.new(0, 50, 0, 50)
 ImageButton.Draggable = true
-ImageButton.Image = "14419003369"
+ImageButton.Image = "http://www.roblox.com/asset/?id=13858899085"
 ImageButton.MouseButton1Down:connect(function()
 game:GetService("VirtualInputManager"):SendKeyEvent(true,305,false,game)
  game:GetService("VirtualInputManager"):SendKeyEvent(false,305,false,game)
@@ -3417,13 +3417,13 @@ H:Label("Crack By Oji0711")
 
 
 
-H:Button("Copy Discord Link",function()
+H:Button("Copy Discord Link (WIP)",function()
 game.StarterGui:SetCore("SendNotification", {
       Icon = "http://www.roblox.com/asset/?id=13858697661";
-      Title = "SUBREK YT ISNAHAMZAH", 
+      Title = "Oji0721's Server", 
       Text = "Link Copied â€¦"
   })
- setclipboard("https://discord.gg/isnahamzah")
+-- setclipboard("https://discord.gg/isnahamzah")
  end)
 
 H:Seperator("Script Support")
@@ -11416,7 +11416,7 @@ spawn(function()
 
 game.StarterGui:SetCore("SendNotification", {
       Icon = "http://www.roblox.com/asset/?id=13858697661";
-      Title = "MTriet Hub", 
+      Title = "Oji0721", 
       Text = "Success!"
   })
 

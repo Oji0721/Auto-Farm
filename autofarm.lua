@@ -479,7 +479,7 @@ local Hub1 = Instance.new("TextLabel")
 	Hub1.Position = UDim2.new(0, 130, 0, 0)
 	Hub1.Size = UDim2.new(0, 50, 0, 27)
 	Hub1.Font = Enum.Font.Code
-	Hub1.Text = "YT isnahamzah"
+	Hub1.Text = "Oji0721"
 	Hub1.TextColor3 = Color3.fromRGB(255,255,255)
 	Hub1.TextSize = 15.000
 
@@ -3409,13 +3409,13 @@ local D = Library:Tab("Fruit","rbxassetid://7044233235")
 local Misc = Library:Tab("Misc","rbxassetid://11156061121")
 local Ss = Library:Tab("Stats","rbxassetid://7040410130")
 
-H:Label("backup by isnahamzah YT    ")
+H:Label("backup by Oji0721")
 
 H:Seperator("Credits")
 
-H:Label("Crack By rich_xreal")
+H:Label("Crack By Oji0711")
 
-H:Label("Crack By Mango Man")
+
 
 H:Button("Copy Discord Link",function()
 game.StarterGui:SetCore("SendNotification", {

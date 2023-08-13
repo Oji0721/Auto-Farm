@@ -3429,7 +3429,7 @@ game.StarterGui:SetCore("SendNotification", {
 H:Seperator("Script Support")
 
 H:Label("Mobile: WORKING!")
-H:Label("PC: WORKING")
+H:Label("PC: WIP")
 
 
 Main:Seperator("Server")

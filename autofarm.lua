@@ -11,7 +11,7 @@ ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
 ImageButton.Size = UDim2.new(0, 50, 0, 50)
 ImageButton.Draggable = true
-ImageButton.Image = "http://www.roblox.com/asset/?id=13858899085"
+ImageButton.Image = "http://www.roblox.com/asset/?id=14419268196"
 ImageButton.MouseButton1Down:connect(function()
 game:GetService("VirtualInputManager"):SendKeyEvent(true,305,false,game)
  game:GetService("VirtualInputManager"):SendKeyEvent(false,305,false,game)
@@ -162,7 +162,7 @@ local osfunc = {}
 	Logo.BackgroundTransparency = 1.000
 	Logo.Position = UDim2.new(0, 13, 0, 1)
 	Logo.Size = UDim2.new(0, 25, 0, 25)
-	Logo.Image = "rbxassetid://13858899085"
+	Logo.Image = "rbxassetid://14419268196"
 
 	local Name = Instance.new("TextLabel")
 	Name.Name = "Name"

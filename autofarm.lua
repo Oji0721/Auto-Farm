@@ -479,7 +479,7 @@ local Hub1 = Instance.new("TextLabel")
 	Hub1.Position = UDim2.new(0, 130, 0, 0)
 	Hub1.Size = UDim2.new(0, 50, 0, 27)
 	Hub1.Font = Enum.Font.Code
-	Hub1.Text = "Oji0721"
+	Hub1.Text = "Blue Lock"
 	Hub1.TextColor3 = Color3.fromRGB(255,255,255)
 	Hub1.TextSize = 15.000
 
